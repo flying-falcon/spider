@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spider/static/css/main.b100e6da.chunk.css",
+    "main.js": "/spider/static/js/main.97909dee.chunk.js",
+    "main.js.map": "/spider/static/js/main.97909dee.chunk.js.map",
+    "runtime-main.js": "/spider/static/js/runtime-main.d3990f0e.js",
+    "runtime-main.js.map": "/spider/static/js/runtime-main.d3990f0e.js.map",
+    "static/js/2.2060027d.chunk.js": "/spider/static/js/2.2060027d.chunk.js",
+    "static/js/2.2060027d.chunk.js.map": "/spider/static/js/2.2060027d.chunk.js.map",
+    "index.html": "/spider/index.html",
+    "precache-manifest.c8d8d990e49dbff63ac693a56d5a7aee.js": "/spider/precache-manifest.c8d8d990e49dbff63ac693a56d5a7aee.js",
+    "service-worker.js": "/spider/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/spider/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/spider/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3990f0e.js",
+    "static/js/2.2060027d.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.97909dee.chunk.js"
+  ]
+}
